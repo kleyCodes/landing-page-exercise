@@ -1,0 +1,1 @@
+Simple css exercise from the odin project, in this exercise I learned alot about flex-box positioning
